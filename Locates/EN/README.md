@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎨 ComfyUI on Colab (English Version) <a href="https://colab.research.google.com/github/lz-migra/ConfyUI_on-Colab/blob/main/Locates/ES/ConfyUI_on_Colab_ES.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="40" style="vertical-align: middle;"></a></h1>
+  <h1>🎨 ComfyUI on Colab (English Version) <a href="https://colab.research.google.com/github/lz-migra/ConfyUI_on-Colab/blob/main/Locates/EN/ConfyUI_on_Colab_EN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="40" style="vertical-align: middle;"></a></h1>
 </div>
 
 This is an optimized implementation of **ComfyUI** for Google Colab, designed to provide a seamless experience. It features flexible storage configuration, automatic installation of advanced models, and multiple connectivity options.
@@ -40,3 +40,4 @@ This is an optimized implementation of **ComfyUI** for Google Colab, designed to
 ---
 
 *Developed to facilitate access to generative AI tools for the global community.*
+
